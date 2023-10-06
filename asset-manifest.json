@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cv-saifunnisa/static/css/main.54d4b38a.css",
+    "main.js": "/cv-saifunnisa/static/js/main.5b0fad4e.js",
+    "static/js/787.dbc30ae6.chunk.js": "/cv-saifunnisa/static/js/787.dbc30ae6.chunk.js",
+    "index.html": "/cv-saifunnisa/index.html",
+    "main.54d4b38a.css.map": "/cv-saifunnisa/static/css/main.54d4b38a.css.map",
+    "main.5b0fad4e.js.map": "/cv-saifunnisa/static/js/main.5b0fad4e.js.map",
+    "787.dbc30ae6.chunk.js.map": "/cv-saifunnisa/static/js/787.dbc30ae6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54d4b38a.css",
+    "static/js/main.5b0fad4e.js"
+  ]
+}
